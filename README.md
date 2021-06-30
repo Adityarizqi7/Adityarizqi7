@@ -1,4 +1,4 @@
-Hi, I'm Aditya Rizq Ardhana. Now Im colleger and Study At Univeristas Pembangunan Nasional Veteran Jawa Timur.
+Hi, I'm Aditya Rizq Ardhana. Now Im colleger and Study At Univeristas Pembangunan Nasional Veteran Jawa Timur University.
 I like coding and learn about web develope. Thank you for your Visit.
 
 <!---
