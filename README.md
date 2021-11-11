@@ -1,5 +1,4 @@
-Hi, I'm Aditya Rizq Ardhana. Now Im colleger and Study At Univeristas Pembangunan Nasional Veteran Jawa Timur University.
-I like coding and learn about web develope. Thank you for your Visit.
+Halo, I'am Aditya Rizqi Ardhana. Im student college ✨
 
 <!---
 Adityarizqi7/Adityarizqi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
