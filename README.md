@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aditya Rizqi Ardhana <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"></h2>
   
-<img align='right' src="https://media.giphy.com/media/F9N6QwqkUxKi1sBL6H/giphy.gif" width="380">
+<img align='right' src="https://media.giphy.com/media/F9N6QwqkUxKi1sBL6H/giphy.gif" width="300">
 <p><em>Front End Web Enginner at <a href="https://www.paduedu.com/">Padu - Parenting Education</a><img src="https://media.giphy.com/media/YSe00M5dcMsowD8Vod/giphy.gif" width="30"></br>Student College at <a href="https://www.upnjatim.ac.id">UPN "Veteran" Jatim</a><img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="30"> 
 </em></p>
   
