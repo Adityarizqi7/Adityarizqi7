@@ -5,9 +5,15 @@ _Front End Web Enginner at [Padu - Parenting Education](https://www.paduedu.com)
 <br /><br/>
 _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
-<br/>
+<br>
 
-[![Twitter: adityaardh](https://img.shields.io/twitter/follow/Adityarizqi7?style=social)](https://twitter.com/adityaardh)
+<!-- <a href="https://www.youtube.com/c/AdityaRA?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+</a> -->
+
+<!-- &#8287; -->
+
+[![Twitter: adityaardh](https://img.shields.io/twitter/follow/adityaardh?style=social)](https://twitter.com/adityaardh)
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
 [![GitHub Adityarizqi7](https://img.shields.io/github/followers/Adityarizqi7?label=follow&style=social)](https://github.com/Adityarizqi7)
 
@@ -36,27 +42,21 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 - ![Golang Badge](https://img.shields.io/badge/-golang-007acc?style=for-the-badge&labelColor=F1F5F9&logo=go&logoColor=007acc)
 
-## Github Stats
+## :rocket: Github Stats
 #### Top Language at Github Repo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=4&layout=compact)
 
 #### Stats Tuts
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true&count_private=true)
 
-## Dev Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- #### Week Stats -->
-<!-- [![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityarizqi)](https://github.com/rg-km/fe2273128-aditya.rizqi.ardhana) -->
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/Adityarizqi7/asmr-logic-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=asmr-logic-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="asmr-logic-app" />
 </a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=playground&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ruang Guru Camp" />
+&emsp;
+<a href="https://github.com/Adityarizqi7/mini-discord-channel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=mini-discord-channel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Clone Discord Channel" />
 </a>
 
 <br/>
