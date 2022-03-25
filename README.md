@@ -1,13 +1,12 @@
 <h1> Hi, I'm Aditya Rizqi Ardhana <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"></h1>
   
-<p>
-  <em>Front End Web Enginner at <a href="https://www.paduedu.com/">Padu - Parenting Education</a></em>
-  <br/><br/>
-  <em>Student College at <a href="https://www.upnjatim.ac.id">UPN "Veteran" Jatim</a> </em>
-</p>
+
+_Front End Web Enginner at [Padu - Parenting Education](https://www.paduedu.com)_
+<br /><br/>
+_Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 <br/>
-  
+
 [![Twitter: adityaardh](https://img.shields.io/twitter/follow/Adityarizqi7?style=social)](https://twitter.com/adityaardh)
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
 [![GitHub Adityarizqi7](https://img.shields.io/github/followers/Adityarizqi7?label=follow&style=social)](https://github.com/Adityarizqi7)
