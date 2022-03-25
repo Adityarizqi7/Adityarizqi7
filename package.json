@@ -1,0 +1,20 @@
+{
+  "name": "adityarizqi7",
+  "version": "1.0.0",
+  "description": "<h1> Hi, I'm Aditya Rizqi Ardhana <img src=\"https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif\" width=\"50\"></h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityarizqi7/Adityarizqi7.git"
+  },
+  "keywords": [],
+  "author": "Aditya Rizqi Ardhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adityarizqi7/Adityarizqi7/issues"
+  },
+  "homepage": "https://github.com/Adityarizqi7/Adityarizqi7#readme"
+}
