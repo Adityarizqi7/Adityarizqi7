@@ -36,14 +36,19 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 - ![Golang Badge](https://img.shields.io/badge/-golang-007acc?style=for-the-badge&labelColor=F1F5F9&logo=go&logoColor=007acc)
 
+## Github Stats
 #### Top Language at Github Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=4&layout=compact)
 
 #### Stats Tuts
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true&count_private=true)
 
-#### Week Stats
-[![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityarizqi)](https://github.com/rg-km/fe2273128-aditya.rizqi.ardhana)
+## Dev Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- #### Week Stats -->
+<!-- [![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityarizqi)](https://github.com/rg-km/fe2273128-aditya.rizqi.ardhana) -->
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/Adityarizqi7/asmr-logic-app">
