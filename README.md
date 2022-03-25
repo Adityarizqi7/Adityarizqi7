@@ -47,7 +47,7 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=4&layout=compact)
 
 #### Stats Tuts
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true&count_private=true)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true)
 
 
 ## 🗂️ Highlight Projects
