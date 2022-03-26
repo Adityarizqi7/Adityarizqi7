@@ -2,7 +2,7 @@
   
 
 _Front End Web Enginner at [Padu - Parenting Education](https://www.paduedu.com)_
-<br /><br/>
+
 _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 <br>
