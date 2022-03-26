@@ -49,6 +49,8 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 #### Stats Tuts
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true)
 
+
+## Dev Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
