@@ -10,6 +10,8 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 <!-- [![Twitter: adityaardh](https://img.shields.io/twitter/follow/adityaardh?style=social)](https://twitter.com/adityaardh) -->
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
 [![GitHub Adityarizqi7](https://img.shields.io/github/followers/Adityarizqi7?label=follow&style=social)](https://github.com/Adityarizqi7)
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/adityaardh.svg?style=social" /> </a>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 <br/>
 
@@ -38,7 +40,7 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 ## :rocket: Github Stats
 #### Top Language at Github Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=10&layout=compact)
 
 #### Stats Tuts
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true)
@@ -63,7 +65,6 @@ JSON         2 mins          ▒░░░░░░░░░░░░░░░░
 <a href="https://github.com/Adityarizqi7/asmr-logic-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=asmr-logic-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="asmr-logic-app" />
 </a>
-&emsp;
 <a href="https://github.com/Adityarizqi7/mini-discord-channel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=mini-discord-channel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Clone Discord Channel" />
 </a>
