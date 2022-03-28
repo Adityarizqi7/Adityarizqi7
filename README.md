@@ -41,7 +41,7 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 ## :rocket: Github Stats
 #### Top Language at Github Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=5)
 
 #### Stats Tuts
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true)
