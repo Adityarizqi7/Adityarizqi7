@@ -9,8 +9,6 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 
 <!-- [![Twitter: adityaardh](https://img.shields.io/twitter/follow/adityaardh?style=social)](https://twitter.com/adityaardh) -->
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
-[![GitHub Adityarizqi7](https://img.shields.io/github/followers/Adityarizqi7?label=follow&style=social)](https://github.com/Adityarizqi7)
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/adityaardh.svg?style=social" /> </a>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 [![Waka Readme](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml/badge.svg?branch=main)](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml)
 
