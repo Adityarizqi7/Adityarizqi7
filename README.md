@@ -48,14 +48,14 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 ## :icecream: Dev Times
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 11 hrs 18 mins
+```txt
+Total Time: 11 hrs 57 mins
 
-JavaScript   10 hrs 4 mins   ██████████████████████▒░░   89.03 %
-PHP          1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   10 hrs 35 mins  ██████████████████████░░░   88.46 %
+PHP          1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
