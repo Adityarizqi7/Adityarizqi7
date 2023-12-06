@@ -49,13 +49,13 @@ _Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 94 hrs 50 mins
+Total Time: 92 hrs 22 mins
 
-TypeScript   48 hrs 32 mins  ████████████▓░░░░░░░░░░░░   51.11 %
-HTML         30 hrs 36 mins  ████████░░░░░░░░░░░░░░░░░   32.23 %
-Svelte       11 hrs 4 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Vue.js       2 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JavaScript   29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   48 hrs 8 mins   █████████████░░░░░░░░░░░░   52.06 %
+HTML         32 hrs          ████████▓░░░░░░░░░░░░░░░░   34.62 %
+Svelte       7 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Vue.js       2 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JavaScript   29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
