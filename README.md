@@ -7,38 +7,20 @@ _Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
 [![Waka Readme](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml/badge.svg?branch=main)](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml)
 
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityarizqi7&theme=solarized_dark)
-
 ## :love_letter: About me
-
-#### Educations
-* [Ruangguru Camp](https://www.ruangguru.com "MSIB Batch 2")
-* [East Java National Development University](https://www.upnjatim.ac.id "UPN University")
 
 #### Experience
 * [Faculty of Engineering](https://www.fteknik-upnjatim.herokuapp.com "New Version Website") (as Full Stack Web Developer)
-* [Ruuangguru Camp](https://www.camp.ruangguru.com "Ruangguru Camp") (as Student Front End Developer)
+* [Ruangguru Camp](https://www.camp.ruangguru.com "Ruangguru Camp") (as Student Front End Developer)
 * [Padu - Parenting Education](https://www.paduedu.com "Padu's Homepage") (as CTO and Front End Developer)
 
 #### Skills Set
 
-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Adityarizqi7/aoda-snake)
+![Laravel Badge](https://img.shields.io/badge/-Laravel-EF4444?style=for-the-badge&labelColor=F1F5F9&logo=laravel&logoColor=EF4444)
 
-- ![Laravel Badge](https://img.shields.io/badge/-Laravel-EF4444?style=for-the-badge&labelColor=F1F5F9&logo=laravel&logoColor=EF4444)
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 
-- ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-
-- ![Golang Badge](https://img.shields.io/badge/-golang-007acc?style=for-the-badge&labelColor=F1F5F9&logo=go&logoColor=007acc)
-
-## :rocket: Github Stats
-#### Top Language at Github Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizqi7&langs_count=5&layout=compact)
-
-#### Stats Tuts
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityarizqi7&include_all_commits=true&show_icons=true)
-
+![Svelte Badge](https://img.shields.io/static/v1?logo=svelte&label=&message=svelte&&color=white&style=for-the-badge)
 
 ## :icecream: Dev Times
 <!--START_SECTION:waka-->
@@ -62,14 +44,3 @@ JSON         1 hr 23 mins    ▒░░░░░░░░░░░░░░░░
 <a href="https://github.com/Adityarizqi7/mini-discord-channel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=mini-discord-channel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Clone Discord Channel" />
 </a>
-
-<br/>
-<br/>
-<br/>
-
-<div>
-  <img src="https://media.giphy.com/media/oRBJN6AVzzy28CrUgc/giphy.gif" width="60">
-  <em><b>I'd love it if i could connect and brainstrom with anyone</b>so let's say <b>hi, and make something great and fun :star2:</em>
-</div>
- 
----
