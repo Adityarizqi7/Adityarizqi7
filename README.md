@@ -1,15 +1,10 @@
 <h1> Hi, I'm Aditya Rizqi Ardhana <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"></h1>
   
-
-_Front End Web Enginner at [Padu - Parenting Education](https://www.paduedu.com)_
-
-_Student College at [UPN "Veteran" Jatim](https://www.upnjatim.ac.id)_
-
+_Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 <br>
 
 <!-- [![Twitter: adityaardh](https://img.shields.io/twitter/follow/adityaardh?style=social)](https://twitter.com/adityaardh) -->
 [![Linkedin: adityarizqiardhana](https://img.shields.io/badge/-adityarizqiardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaarizqiardhana/)](https://www.linkedin.com/in/adityarizqiardhana/)
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=white&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 [![Waka Readme](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml/badge.svg?branch=main)](https://github.com/Adityarizqi7/Adityarizqi7/actions/workflows/wakatime.yml)
 
 <br/>
