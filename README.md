@@ -12,7 +12,7 @@ _Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 #### Experience
 * [Faculty of Engineering](https://www.fteknik-upnjatim.herokuapp.com "New Version Website") (as Full Stack Web Developer)
 * [Ruangguru Camp](https://www.camp.ruangguru.com "Ruangguru Camp") (as Student Front End Developer)
-* [Padu - Parenting Education](https://www.paduedu.com "Padu's Homepage") (as CTO and Front End Developer)
+* [Padu - Parenting Education](https://www.paduedu.com "Padu's Homepage") (as Front End Developer)
 
 #### Skills Set
 
