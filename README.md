@@ -38,9 +38,9 @@ Markdown     1 hr 33 mins    ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## 🗂️ Highlight Projects
+<a href="https://github.com/Adityarizqi7/mini-discord-channel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=svelte-currency-format-input&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Clone Discord Channel" />
+</a>
 <a href="https://github.com/Adityarizqi7/asmr-logic-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=asmr-logic-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="asmr-logic-app" />
-</a>
-<a href="https://github.com/Adityarizqi7/mini-discord-channel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adityarizqi7&repo=mini-discord-channel&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Clone Discord Channel" />
 </a>
