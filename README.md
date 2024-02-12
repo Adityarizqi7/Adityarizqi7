@@ -26,13 +26,13 @@ _Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 178 hrs 9 mins
+Total Time: 167 hrs 54 mins
 
-Svelte       152 hrs 43 mins █████████████████████▒░░░   85.67 %
-TypeScript   12 hrs 45 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-JSON         5 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Markdown     3 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-JavaScript   1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Svelte       142 hrs 58 mins █████████████████████▒░░░   85.10 %
+TypeScript   12 hrs 26 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+JSON         5 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Markdown     3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JavaScript   1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
