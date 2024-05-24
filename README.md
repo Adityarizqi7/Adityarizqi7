@@ -26,13 +26,13 @@ _Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 32 mins
+Total Time: 28 hrs 23 mins
 
-PHP              17 hrs 23 mins  █████████████████▓░░░░░░░   70.82 %
-JavaScript       3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Blade Template   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Markdown         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Bash             32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+PHP              23 hrs 13 mins  ████████████████████▒░░░░   81.81 %
+Blade Template   2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Markdown         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+JavaScript       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Bash             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
