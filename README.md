@@ -1,6 +1,6 @@
 <h1> Hi, I'm Aditya Rizqi Ardhana <img src="https://media.giphy.com/media/5aY6weoALCAu1qHXpq/giphy.gif" width="50"></h1>
   
-_Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
+_Software Developer as Programmer at [Kementerian Lingkungan Hidup dan Kehutanan](https://www.amdalnet.menlhk.go.id)_
 <br>
 
 <!-- [![Twitter: adityaardh](https://img.shields.io/twitter/follow/adityaardh?style=social)](https://twitter.com/adityaardh) -->
@@ -10,17 +10,20 @@ _Software Developer as Front-End Developer at [Vhiweb](https://www.vhiweb.com)_
 ## :love_letter: About me
 
 #### Experience
-* [Faculty of Engineering](https://www.fteknik-upnjatim.herokuapp.com "New Version Website") (as Full Stack Web Developer)
-* [Ruangguru Camp](https://www.camp.ruangguru.com "Ruangguru Camp") (as Student Front End Developer)
+* [Vhiweb](https://www.vhiweb.com "Official Web Vhiweb Company") (as Front-End Developer)
 * [Padu - Parenting Education](https://www.paduedu.com "Padu's Homepage") (as Front End Developer)
+* [Ruangguru Camp](https://www.camp.ruangguru.com "Ruangguru Camp") (as Student Front End Developer)
+* [Faculty of Engineering](https://www.fteknik-upnjatim.herokuapp.com "New Version Website") (as Full Stack Web Developer)
 
-#### Skills Set
+<!--#### Skills Set
 
 ![Laravel Badge](https://img.shields.io/badge/-Laravel-EF4444?style=for-the-badge&labelColor=F1F5F9&logo=laravel&logoColor=EF4444)
 
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 
 ![Svelte Badge](https://img.shields.io/static/v1?logo=svelte&label=&message=svelte&&color=white&style=for-the-badge)
+
+![Vue Badge](https://img.shields.io/static/v1?logo=vue&label=&message=svelte&&color=white&style=for-the-badge)-->
 
 ## :icecream: Dev Times
 <!--START_SECTION:waka-->
