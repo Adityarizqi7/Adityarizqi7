@@ -29,13 +29,13 @@ _Software Developer as Programmer at [Kementerian Lingkungan Hidup dan Kehutanan
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 63 hrs 22 mins
+Total Time: 61 hrs 50 mins
 
-Vue.js       42 hrs 36 mins  ████████████████▓░░░░░░░░   66.98 %
-PHP          16 hrs 6 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Bash         3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-INI          19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Vue.js       41 hrs 41 mins  ████████████████▓░░░░░░░░   67.16 %
+PHP          15 hrs 20 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+Bash         3 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+JavaScript   44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+INI          19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
